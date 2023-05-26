@@ -1,6 +1,5 @@
 # CoolStreet
 Documents related to the studies produced by CoolStreet
 
-<a href="https://lyoungblood14.github.io/CoolStreet/IC_Final_English.pdf" target="_blank"> Informed Consent (English Version)</a>
+<a href="https://lyoungblood14.github.io/CoolStreet/IC_Final_DE_EN.pdf" target="_blank"> Informed Consent (DE and EN Version)</a>
 
-<a href="https://lyoungblood14.github.io/CoolStreet/IC_Final_DEUTSCH.pdf" target="_blank">Informed Consent (German Version)</a>
